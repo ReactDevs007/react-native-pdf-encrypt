@@ -10,13 +10,13 @@ AES-GCM encryption/decryption for React Native
 ## Installation
 
 ```sh
-npm install react-native-aes-gcm-crypto
+npm install react-native-aes-pdf
 ```
 
 ## Usage
 
 ```js
-import AesGcmCrypto from 'react-native-aes-gcm-crypto';
+import AesGcmCrypto from 'react-native-aes-pdf';
 
 const key = 'Yzg1MDhmNDYzZjRlMWExOGJkNTk5MmVmNzFkOGQyNzk=';
 
